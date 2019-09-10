@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 .idea/
 .idea/*
 
+=======
+>>>>>>> 62e90ef905ec3f6d5dec3deead13c26bc61ad8c0
 # Binaries for programs and plugins
 *.exe
 *.exe~
